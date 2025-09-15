@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "My First Post",
+    "description": "This is a short preview of my very first post on this blog...",
+    "link": "first-post"
+  },
+  {
+    "id": 2,
+    "title": "Essential React Tips",
+    "description": "Here are five essential tips for writing cleaner and more efficient React components...",
+    "link": "react-tips"
+  }
+]
