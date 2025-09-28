@@ -1,0 +1,44 @@
+[
+  {
+    "id": "portfoliowebsite",
+    "name": "Portfolio Website",
+    "description": "A sleek, modern showcase for personal projects.",
+    "imageUrl": "https://placehold.co/220x300/0c4a6e/ffffff?text=Portfolio"
+  },
+  {
+    "id": "ecommerceplatform",
+    "name": "E-commerce Platform",
+    "description": "A full-featured online store with a custom backend.",
+    "imageUrl": "https://placehold.co/220x300/042f2e/e0e0e0?text=Shop"
+  },
+  {
+    "id": "weatherapp",
+    "name": "Weather App",
+    "description": "Real-time weather data with a clean, intuitive UI.",
+    "imageUrl": "https://placehold.co/220x300/1e40af/ffffff?text=Weather"
+  },
+  {
+    "id": "taskmanager",
+    "name": "Task Manager",
+    "description": "Stay organized and boost productivity with this tool.",
+    "imageUrl": "https://placehold.co/220x300/3f3f46/e0e0e0?text=Tasks"
+  },
+  {
+    "id": "blogengine",
+    "name": "Blog Engine",
+    "description": "A dynamic blogging platform built from scratch.",
+    "imageUrl": "https://placehold.co/220x300/581c87/ffffff?text=Blog"
+  },
+  {
+    "id": "socialdashboard",
+    "name": "Social Dashboard",
+    "description": "Aggregate all your social media feeds in one place.",
+    "imageUrl": "https://placehold.co/220x300/854d0e/e0e0e0?text=Social"
+  },
+  {
+    "id": "musicplayer",
+    "name": "Music Player",
+    "description": "Stream and organize your favorite music seamlessly.",
+    "imageUrl": "https://placehold.co/200x300/9f1239/ffffff?text=Music"
+  }
+]
