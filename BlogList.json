@@ -1,16 +1,16 @@
 [
-    {
-      tags: ['React', 'Frontend', 'State Management'],
-      title: 'Mastering State Management in React',
-      description: 'A deep dive into useState, useReducer, and Context API for building scalable applications.',
-      date: 'Sep 26, 2025',
-      url: '#',
-    },
-    {
-      tags: ['Node.js', 'Backend', 'API'],
-      title: 'Building a RESTful API with Node.js and Express',
-      description: 'Learn the fundamentals of creating robust and secure APIs for your web services.',
-      date: 'Sep 22, 2025',
-      url: '#',
-    },
-  ]
+  {
+    "tags": ["React", "Frontend", "State Management"],
+    "title": "Mastering State Management in React",
+    "description": "A deep dive into useState, useReducer, and Context API for building scalable applications.",
+    "date": "Sep 26, 2025",
+    "url": "#"
+  },
+  {
+    "tags": ["Node.js", "Backend", "API"],
+    "title": "Building a RESTful API with Node.js and Express",
+    "description": "Learn the fundamentals of creating robust and secure APIs for your web services.",
+    "date": "Sep 22, 2025",
+    "url": "#"
+  }
+]
