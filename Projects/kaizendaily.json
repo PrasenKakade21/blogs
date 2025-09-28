@@ -1,0 +1,37 @@
+{
+  "title": "Kaizen Daily",
+  "category": "Test Project",
+  "description": "An advanced, open-source machine learning platform built with Python and React for creating, training, and deploying next-generation AI models with ease. It features a collaborative environment and real-time analytics.",
+  "technologies": [
+    "React",
+    "Python",
+    "Flask",
+    "Docker",
+    "TensorFlow",
+    "PostgreSQL",
+    "Tailwind CSS"
+  ],
+  "features": [
+    {
+      "title": "Interactive Model Builder",
+      "description": "A drag-and-drop interface for designing complex neural networks without writing any code."
+    },
+    {
+      "title": "Real-time Analytics Dashboard",
+      "description": "Monitor model training progress, performance metrics, and resource utilization in real-time."
+    },
+    {
+      "title": "One-Click Deployment",
+      "description": "Seamlessly deploy trained models to a scalable production environment using Docker containers."
+    },
+    {
+      "title": "Collaborative Workspaces",
+      "description": "Share projects, datasets, and models with your team to foster collaboration and accelerate research."
+    }
+  ],
+  "links": {
+    "github": "https://github.com/example/quantumleap-ai",
+    "liveDemo": "https://quantumleap.example.com"
+  },
+  "imageUrl": "https://placehold.co/1200x600/121212/ff0055?text=QuantumLeap+AI"
+}
