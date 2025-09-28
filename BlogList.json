@@ -1,4 +1,4 @@
-  const blogPosts = [
+[
     {
       tags: ['React', 'Frontend', 'State Management'],
       title: 'Mastering State Management in React',
@@ -13,4 +13,4 @@
       date: 'Sep 22, 2025',
       url: '#',
     },
-  ];
+  ]
