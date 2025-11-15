@@ -2,19 +2,19 @@
   {
     "title": "KaizenDaily",
     "image": "../assets/game1.jpg",
-    "url": "https://kaizendaily.kakade.dev/",
+    "url": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/kaizendaily.png",
     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "title": "PokiAPI UI",
     "image": "../assets/game2.jpg",
-    "url": "https://pokiapiui.kakade.dev/",
+    "url": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/pokeui.png",
     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "title": "Pigeon Mail",
     "image": "../assets/game2.jpg",
-    "url": "https://pigeonmail.kakade.dev/",
+    "url": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/pgenmail.png",
     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
   }
 ]
