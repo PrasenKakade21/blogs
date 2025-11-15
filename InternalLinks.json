@@ -1,20 +1,20 @@
 [
   {
     "title": "KaizenDaily",
-    "image": "../assets/game1.jpg",
-    "url": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/kaizendaily.png",
+    "image": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/kaizendaily.png",
+    "url": "https://kaizendaily.kakade.dev/",
     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "title": "PokiAPI UI",
-    "image": "../assets/game2.jpg",
-    "url": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/pokeui.png",
+    "image": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/pokeui.png",
+    "url": "https://pokeui.kakade.dev/",
     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "title": "Pigeon Mail",
-    "image": "../assets/game2.jpg",
-    "url": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/pgenmail.png",
+    "image": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/pgenmail.png",
+    "url": "https://pigeonmail.kakade.dev/",
     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
   }
 ]
