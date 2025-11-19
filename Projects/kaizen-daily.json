@@ -30,8 +30,8 @@
     }
   ],
   "links": {
-    "github": "https://github.com/example/quantumleap-ai",
-    "liveDemo": "https://quantumleap.example.com"
+    "github": "http://github.com/PrasenKakade21/kaizendaily",
+    "liveDemo": "https://kaizendaily.kakade.dev/"
   },
-  "imageUrl": "https://placehold.co/1200x600/121212/ff0055?text=QuantumLeap+AI"
+  "imageUrl": "https://placehold.co/1200x600/121212/ff0055?text=Kaizen+Daily"
 }
