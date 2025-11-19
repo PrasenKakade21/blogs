@@ -1,44 +1,32 @@
 [
   {
-    "id": "astrodefender",
-    "name": "Astro Defender",
-    "description": "Defend the galaxy from relentless alien invaders.",
-    "imageUrl": "https://placehold.co/220x300/0b0f19/e0e0e0?text=Astro"
+    "id": "shapes",
+    "name": "Shapes",
+    "description": "A high-contrast, zombie survivor-style arcade game.",
+    "imageUrl": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/shapes.png"
   },
   {
-    "id": "pixelracers",
-    "name": "Pixel Racers",
-    "description": "High-speed retro racing action on vibrant city tracks.",
-    "imageUrl": "https://placehold.co/220x300/1e293b/ffffff?text=Pixel"
+    "id": "meme-ninja",
+    "name": "Meme Ninja",
+    "description": "A fast-paced slicing game inspired by Fruit Ninja, featuring popular meme coins.",
+    "imageUrl": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/meme-ninja.png"
   },
   {
-    "id": "dungeoncrawler",
-    "name": "Dungeon Crawler",
-    "description": "Explore dark dungeons and find epic loot.",
-    "imageUrl": "https://placehold.co/220x300/3730a3/e0e0e0?text=Dungeon"
+    "id": "ping-pong-goal",
+    "name": "Ping Pong Goal",
+    "description": "An immersive 3D puzzle-platformer that tests precision and timing.",
+    "imageUrl": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/ping-pong-goal.png"
   },
   {
-    "id": "galacticconquest",
-    "name": "Galactic Conquest",
-    "description": "A 4X strategy game of cosmic domination.",
-    "imageUrl": "https://placehold.co/220x300/111827/ffffff?text=Galaxy"
+    "id": "dodo-vs-cloud",
+    "name": "Dodo vs. The Thunder Cloud",
+    "description": "A challenging 2D platformer where you outrun an ominous, relentless storm.",
+    "imageUrl": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/dodo-vs-cloud.png"
   },
   {
-    "id": "junglequest",
-    "name": "Jungle Quest",
-    "description": "An adventure puzzle game in a lush, ancient jungle.",
-    "imageUrl": "https://placehold.co/220x300/166534/e0e0e0?text=Jungle"
-  },
-  {
-    "id": "cyberpunkrunner",
-    "name": "Cyberpunk Runner",
-    "description": "Run through a neon-lit dystopian future.",
-    "imageUrl": "https://placehold.co/220x300/831843/ffffff?text=Cyber"
-  },
-  {
-    "id": "fantasysiege",
-    "name": "Fantasy Siege",
-    "description": "Defend your castle from hordes of mythical creatures.",
-    "imageUrl": "https://placehold.co/220x300/4a044e/e0e0e0?text=Siege"
+    "id": "word-guess",
+    "name": "Word Guess",
+    "description": "A logic-based word puzzle game inspired by Wordle.",
+    "imageUrl": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/word-guess.png"
   }
 ]
