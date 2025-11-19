@@ -1,0 +1,30 @@
+{
+  "title": "Project Title",
+  "category": "Project Category (e.g., Web App, Open Source)",
+  "description": "A concise but detailed overview of the project. Explain what it does, the problem it solves, and the value it provides to the user.",
+  "technologies": [
+    "Technology 1",
+    "Technology 2",
+    "Technology 3",
+    "Technology 4"
+  ],
+  "features": [
+    {
+      "title": "Key Feature 1",
+      "description": "Description of the first key feature and how it works."
+    },
+    {
+      "title": "Key Feature 2",
+      "description": "Description of the second key feature and its benefit."
+    },
+    {
+      "title": "Key Feature 3",
+      "description": "Description of the third key feature."
+    }
+  ],
+  "links": {
+    "github": "https://github.com/username/repo-name",
+    "liveDemo": "https://project-demo-url.com"
+  },
+  "imageUrl": "https://placehold.co/1200x600/121212/ffffff?text=Project+Image"
+}

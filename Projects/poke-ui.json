@@ -1,0 +1,35 @@
+{
+  "title": "PokeUI",
+  "category": "Single Page Application",
+  "description": "A modern, interactive interface for browsing Pokémon data via PokeAPI. This application transforms raw API data into a visually engaging dashboard, allowing users to explore stats, evolution chains, and move sets with a fluid user experience.",
+  "technologies": [
+    "React",
+    "JavaScript",
+    "Tailwind CSS",
+    "PokeAPI"
+ 
+  ],
+  "features": [
+    {
+      "title": "Smart Search & Filtering",
+      "description": "Instantly search for Pokémon by name or ID, and filter results by elemental type or generation."
+    },
+    {
+      "title": "Interactive Stat Radar",
+      "description": "Visualizes base stats (HP, Attack, Defense, etc.) using dynamic radar charts for easy comparison."
+    },
+    {
+      "title": "Evolution Chain Visualizer",
+      "description": "A recursive component that maps out complex evolution trees, including special conditions for evolution."
+    },
+    {
+      "title": "Lazy Loading & Caching",
+      "description": "Optimized performance with infinite scrolling and local caching to minimize API requests."
+    }
+  ],
+  "links": {
+    "github": "https://github.com/PrasenKakade21/pokeapiui",
+    "liveDemo": "https://pokeui.kakade.dev"
+  },
+  "imageUrl": "https://placehold.co/1200x600/3f3f46/e0e0e0?text=PokeUI+Dashboard"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "PigeonMail",
+  "category": "AI Automation & Marketing",
+  "description": "A scalable email automation platform that leverages Google's Gemini models to generate hyper-personalized content and curated news summaries. Built on Google Cloud for reliability and integrated with SendGrid for high-deliverability transactional emails.",
+  "technologies": [
+    "Google Gemini API",
+    "SendGrid",
+    "Google Cloud Platform (GCP)",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  "features": [
+    {
+      "title": "Gemini-Powered Personalization",
+      "description": "Utilizes the Gemini Pro model to analyze recipient data and craft unique, context-aware email bodies for every user."
+    },
+    {
+      "title": "AI News Curation",
+      "description": "Automatically aggregates relevant news topics and uses Gemini to summarize them into digestible newsletters tailored to user interests."
+    },
+    {
+      "title": "Reliable Delivery Infrastructure",
+      "description": "Ensures high email deliverability rates and real-time tracking by leveraging SendGrid's robust API."
+    },
+    {
+      "title": "Cloud-Native Architecture",
+      "description": "Fully hosted on Google Cloud Platform ensuring scalability, security, and high uptime for critical email operations."
+    }
+  ],
+  "links": {
+    "github": "https://github.com/PrasenKakade21/PGenMail",
+    "liveDemo": "https://pigeonmail.kakade.dev/"
+  },
+  "imageUrl": "https://placehold.co/1200x600/581c87/ffffff?text=PigeonMail+AI"
+}
