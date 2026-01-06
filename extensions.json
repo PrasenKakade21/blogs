@@ -8,8 +8,13 @@
     "version": "2.4.0",
     "developer": "Parag Dakhane",
     "download_url": "#",
+    "github_url": "https://github.com/yourname/repo",
     "features": ["Custom Hotkeys", "Dark Mode", "Cloud Sync"],
     "screenshots": [
+      "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Screenshot+1",
+      "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Screenshot+1",
+      "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Screenshot+1",
+      "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Screenshot+1",
       "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Screenshot+1",
       "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Screenshot+2"
     ]
@@ -23,6 +28,7 @@
     "version": "1.0.5",
     "developer": "Parag Dakhane",
     "download_url": "#",
+    "github_url": "https://github.com/yourname/repo",
     "features": ["OLED Black Theme", "Schedule Toggle"],
     "screenshots": [
       "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Main+UI"
