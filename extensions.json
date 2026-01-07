@@ -1,37 +1,19 @@
 [
   {
-    "id": "quick-launcher",
-    "name": "Quick Launcher",
-    "short_desc": "Launch your favorite apps with custom shortcuts.",
-    "full_desc": "Quick Launcher is the ultimate productivity tool for power users. Define custom hotkeys for any URL.",
+    "id": "cp-to-github",
+    "name": "CP to Github: Leetcode, Codeforce, CodeChef, AtCoder",
+    "short_desc": "A quick way to upload your code to github",
+    "full_desc": "",
     "icon": "https://via.placeholder.com/100/2563eb/ffffff?text=QL",
-    "version": "2.4.0",
-    "developer": "Parag Dakhane",
+    "version": "1.1.0",
+    "developer": "Prasen Kakade",
     "download_url": "#",
-    "github_url": "https://github.com/yourname/repo",
-    "features": ["Custom Hotkeys", "Dark Mode", "Cloud Sync"],
+    "github_url": "https://github.com/PrasenKakade21/extensions/tree/main/LC_auto_uploader",
+    "features": ["Supports multiple platforms", "Auto filtering", "Simple one-click upload","Platform Auto-Detect"],
     "screenshots": [
-      "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Screenshot+1",
-      "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Screenshot+1",
-      "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Screenshot+1",
-      "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Screenshot+1",
-      "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Screenshot+1",
-      "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Screenshot+2"
-    ]
-  },
-  {
-    "id": "dark-mode-pro",
-    "name": "Dark Mode Pro",
-    "short_desc": "Force dark theme on any website.",
-    "full_desc": "Save your eyes by forcing a high contrast dark mode on websites that do not support it natively.",
-    "icon": "https://via.placeholder.com/100/1e293b/ffffff?text=DM",
-    "version": "1.0.5",
-    "developer": "Parag Dakhane",
-    "download_url": "#",
-    "github_url": "https://github.com/yourname/repo",
-    "features": ["OLED Black Theme", "Schedule Toggle"],
-    "screenshots": [
-      "https://via.placeholder.com/400x250/e2e8f0/94a3b8?text=Main+UI"
+      "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/extension/cptogh1.png"
+
     ]
   }
+
 ]
