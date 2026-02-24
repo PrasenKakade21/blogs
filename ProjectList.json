@@ -24,6 +24,12 @@
     "imageUrl": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/what-is-today.png"
   },
   {
+    "id": "captcha",
+    "name": "Captcha",
+    "description": "A lightweight CAPTCHA service with UID verification and direct access to CAPTCHA properties.",
+    "imageUrl": "https://raw.githubusercontent.com/PrasenKakade21/blogs/refs/heads/main/images/captcha.png"
+  },
+  {
     "id": "meaning-of-everything",
     "name": "Meaning of Everything",
     "description": "End-to-end automation pipeline for generating and uploading video content.",

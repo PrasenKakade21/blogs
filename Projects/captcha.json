@@ -1,0 +1,31 @@
+{
+  "title": "Captcha",
+  "category": "Project Category (e.g., Web App, Open Source)",
+  "description": "A concise but detailed overview of the project. Explain what it does, the problem it solves, and the value it provides to the user.",
+  "technologies": [
+    "python",
+    "redis",
+    "Flask",
+    "Python image Library"
+    
+  ],
+  "features": [
+    {
+      "title": "Simple API",
+      "description": "Description of the first key feature and how it works."
+    },
+    {
+      "title": "Full control Over the result",
+      "description": "Description of the second key feature and its benefit."
+    },
+    {
+      "title": "VArity of options",
+      "description": "Description of the third key feature."
+    }
+  ],
+  "links": {
+    "github": "https://github.com/PrasenKakade21/captcha",
+    "liveDemo": "https://captcha.kakade.dev"
+  },
+  "imageUrl": "https://placehold.co/1200x600/121212/ffffff?text=Project+Image"
+}
